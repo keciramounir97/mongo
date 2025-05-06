@@ -2,7 +2,7 @@ Here is a complete GitHub-ready `README.md`-style Markdown content explaining **
 
 ---
 
-````markdown
+
 # 📊 SQL vs NoSQL – Understanding Databases
 
 In the world of databases, there are two main types: **SQL (Structured Query Language)** and **NoSQL (Not Only SQL)**. Each has its own strengths and use cases. Let's break them down! 🚀
@@ -87,7 +87,7 @@ CREATE TABLE users (
 );
 
 SELECT * FROM users;
-````
+
 
 ### 🍃 MongoDB (NoSQL)
 
@@ -123,9 +123,3 @@ db.users.find();
 
 This content is open-source and free to use for learning and educational purposes. ✨
 
-```
-
----
-
-Let me know if you’d like me to generate or upload the diagram images to GitHub, or help you host them properly. Would you like me to create those diagrams for you now?
-```
